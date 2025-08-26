@@ -1,0 +1,56 @@
+{
+    "images": [],
+    "annotations": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "pedestrian",
+            "supercategory": "person"
+        },
+        {
+            "id": 1,
+            "name": "people",
+            "supercategory": "person"
+        },
+        {
+            "id": 2,
+            "name": "bicycle",
+            "supercategory": "bicycle"
+        },
+        {
+            "id": 3,
+            "name": "car",
+            "supercategory": "car"
+        },
+        {
+            "id": 4,
+            "name": "van",
+            "supercategory": "truck"
+        },
+        {
+            "id": 5,
+            "name": "truck",
+            "supercategory": "truck"
+        },
+        {
+            "id": 6,
+            "name": "tricycle",
+            "supercategory": "motor"
+        },
+        {
+            "id": 7,
+            "name": "awning-tricycle",
+            "supercategory": "motor"
+        },
+        {
+            "id": 8,
+            "name": "bus",
+            "supercategory": "bus"
+        },
+        {
+            "id": 9,
+            "name": "motor",
+            "supercategory": "motor"
+        }
+    ]
+}
